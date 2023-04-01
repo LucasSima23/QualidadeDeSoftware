@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FrameworksApplication<frameworks>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.uniguacu.frameworks.FrameworksApplication",
+            "projectName": "frameworks",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
